@@ -1,4 +1,4 @@
-from Toric_code import *
+from mytoriccode.Toric_code import *
 import networkx as nx
 
 
