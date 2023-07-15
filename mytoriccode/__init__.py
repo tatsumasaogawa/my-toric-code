@@ -1,1 +1,1 @@
-from mytoriccode.mytoriccode import *
+from mytoriccode import *
